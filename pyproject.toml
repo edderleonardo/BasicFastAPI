@@ -1,0 +1,6 @@
+[tool.ruff.lint.isort]
+force-single-line = true
+
+
+[flake8]
+max-line-length = 120
